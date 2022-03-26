@@ -1,0 +1,52 @@
+body {
+    background: url(https://i.pinimg.com/originals/5f/17/05/5f1705252f330faeba2ea4d30e06f7cf.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: monospace;
+}
+
+.a {
+    margin-top: 5%;
+    margin-left: 33%;
+    border: solid purple 2px;
+    border-radius: 15px;
+    width: 25%;
+    height: 30%;
+    background-color: rgba(0, 0, 0, 0.336);
+} 
+
+.b  {
+    padding-left: 20%;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.d  {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.336);
+    width: 25%;
+    height: 30%;
+    margin-top: 5%;
+    margin-left: 33%;
+    border: solid purple 2px;
+    border-radius: 15px;
+
+}
+
+h2 {
+    display: flex;
+    margin-left: 2%;
+    width: 100%;
+    text-align:left; 
+}
+
+p {
+    display: flex;
+    margin-left: 1%;
+    width: 90%;
+    margin-top: 2%;
+    font-size: 13px;
+}
