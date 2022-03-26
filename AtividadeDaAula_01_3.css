@@ -8,7 +8,7 @@ body {
 
 .a {
     margin-top: 5%;
-    margin-left: 33%;
+    margin-left: 35%;
     border: solid purple 2px;
     border-radius: 15px;
     width: 25%;
@@ -17,7 +17,7 @@ body {
 } 
 
 .b  {
-    padding-left: 20%;
+    padding-left: 15%;
 }
 
 h1 {
@@ -30,7 +30,7 @@ h1 {
     width: 25%;
     height: 30%;
     margin-top: 5%;
-    margin-left: 33%;
+    margin-left: 35%;
     border: solid purple 2px;
     border-radius: 15px;
 
