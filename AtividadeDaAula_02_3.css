@@ -1,0 +1,36 @@
+body {
+    background-color: #b4b4b4;
+    width: 100vw;
+    height: 100vh;
+}
+
+.b  {
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: dotted black 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.c  {
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+
+.d  {
+    background-color: #ff5100;
+    height: 100px;
+    width: 30%;
+}
+
+.e  {
+    background-color: #3cff01;
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
